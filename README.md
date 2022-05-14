@@ -48,10 +48,14 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <img src="https://user-images.githubusercontent.com/61308457/168448786-28b07fa6-3e18-407c-a3d5-27571a0001e8.gif" />
+        <a href="https://github.com/iv-a/react-burger">
+          <img src="https://user-images.githubusercontent.com/61308457/168448786-28b07fa6-3e18-407c-a3d5-27571a0001e8.gif" />
+        </a>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/61308457/168446069-ef5a4681-d8fc-4fb6-ab75-ea3bb47075f5.svg" />
+        <a href="https://github.com/iv-a/react-burger">
+          <img src="https://user-images.githubusercontent.com/61308457/168446069-ef5a4681-d8fc-4fb6-ab75-ea3bb47075f5.svg" />
+        </a>
       </td>
     </tr>
     <tr>
