@@ -20,12 +20,18 @@
 --!>
 
 
-<h1 align="center">Cтэк</h1>
-<table align="center">
+
+<h1 align="center">Артем Иванов</h1>
+<table align="right">
+<thead>
+<th colspan="2">
+<h3 align="center">Cтэк</h3>
+</th>
+</thead>
 <tbody align="center">
 <tr>
-<td>
-<h4>TypeScript · React · Redux · JavaScript · HTML5 · CSS3</h4>
+<td width="150px">
+<h6>TypeScript · React · Redux · JavaScript · HTML5 · CSS3</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/61308457/168620586-80517d35-876c-4bc2-99d0-a74e591cb07c.svg" height="40px"/>
@@ -38,7 +44,7 @@
 </tr>
 <tr>
 <td>
-<h4>Node.js · Express.js · MongoDB · nginx</h4>
+<h6>Node.js · Express.js · MongoDB · nginx</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/61308457/168620756-1cd531c2-80ec-49dd-a252-635427f62c39.svg" height="40px"/>
@@ -49,7 +55,7 @@
 </tr>
 <tr>
 <td>
-<h4>Jest · Cypress</h4>
+<h6>Jest · Cypress</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/61308457/168620725-51973d46-36f6-4981-a006-1e78537abd51.svg" height="40px"/>
@@ -58,7 +64,7 @@
 </tr>
 <tr>
 <td>
-<h4>Git · GitHub</h4>
+<h6>Git · GitHub</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/61308457/168620845-e715827f-77c4-4cae-953f-62d715eac6b9.svg" height="40px"/>
@@ -67,7 +73,7 @@
 </tr>
 <tr>
 <td>
-<h4>Figma</h4>
+<h6>Figma</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/61308457/168620829-d4950d80-fe90-44c3-9ab8-12c646272002.svg" height="40px"/>
@@ -76,9 +82,11 @@
 </tbody>
 </table>
 
+<img src="https://user-images.githubusercontent.com/61308457/168682166-b3dd3ff6-237c-48e0-b74e-7017a9d593a7.svg" width="50%"/>
+
 <br>
 
-<h1 align="center">Проекты</h1>
+<h2 align="center">Проекты</h2>
 <table>
   <tbody>
     <tr>
