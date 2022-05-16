@@ -19,57 +19,58 @@
 
 --!>
 
+
 <h1 align="center">Cтэк</h1>
 <table align="center">
 <tbody align="center">
 <tr>
 <td>
-<h3>TypeScript · React · Redux · JavaScript · HTML5 · CSS3</h3>
+<h4>TypeScript · React · Redux · JavaScript · HTML5 · CSS3</h4>
 </td>
 <td>
-<img src="https://user-images.githubusercontent.com/61308457/168620586-80517d35-876c-4bc2-99d0-a74e591cb07c.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620601-fb19e084-bb03-4da5-b246-2ac69befa055.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620635-7400babf-ef9c-419b-a9a9-3ce5a811b0fa.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620656-1250de48-d98b-4e0a-968b-8aca8bfccabb.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620667-2ce12d8d-29d0-4e85-b168-a77376437bb3.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620684-c90cb9d3-5250-42dd-89f0-55f8fd31e479.svg" height="50px"/>
-</td>
-</tr>
-<tr>
-<td>
-<h3>Node.js · Express.js · MongoDB · nginx</h3>
-</td>
-<td>
-<img src="https://user-images.githubusercontent.com/61308457/168620756-1cd531c2-80ec-49dd-a252-635427f62c39.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620770-9adf6479-654d-4340-9eb1-40d093eee758.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620785-10c2a65d-ae8e-4ad0-8ae9-99e88e460b41.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620808-39aba4b3-c87a-4782-9d32-92c9192faeb3.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620586-80517d35-876c-4bc2-99d0-a74e591cb07c.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620601-fb19e084-bb03-4da5-b246-2ac69befa055.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620635-7400babf-ef9c-419b-a9a9-3ce5a811b0fa.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620656-1250de48-d98b-4e0a-968b-8aca8bfccabb.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620667-2ce12d8d-29d0-4e85-b168-a77376437bb3.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620684-c90cb9d3-5250-42dd-89f0-55f8fd31e479.svg" height="40px"/>
 </td>
 </tr>
 <tr>
 <td>
-<h3>Jest · Cypress</h3>
+<h4>Node.js · Express.js · MongoDB · nginx</h4>
 </td>
 <td>
-<img src="https://user-images.githubusercontent.com/61308457/168620725-51973d46-36f6-4981-a006-1e78537abd51.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620741-ad9540b8-1fe1-4ec2-a28c-1e4ae6f7f6f3.svg" height="50px"/>
-</td>
-</tr>
-<tr>
-<td>
-<h3>Git · GitHub</h3>
-</td>
-<td>
-<img src="https://user-images.githubusercontent.com/61308457/168620845-e715827f-77c4-4cae-953f-62d715eac6b9.svg" height="50px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620858-6e6b449c-713e-4f06-b15c-560654054a67.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620756-1cd531c2-80ec-49dd-a252-635427f62c39.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620770-9adf6479-654d-4340-9eb1-40d093eee758.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620785-10c2a65d-ae8e-4ad0-8ae9-99e88e460b41.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620808-39aba4b3-c87a-4782-9d32-92c9192faeb3.svg" height="40px"/>
 </td>
 </tr>
 <tr>
 <td>
-<h3>Figma</h3>
+<h4>Jest · Cypress</h4>
 </td>
 <td>
-<img src="https://user-images.githubusercontent.com/61308457/168620829-d4950d80-fe90-44c3-9ab8-12c646272002.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620725-51973d46-36f6-4981-a006-1e78537abd51.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620741-ad9540b8-1fe1-4ec2-a28c-1e4ae6f7f6f3.svg" height="40px"/>
+</td>
+</tr>
+<tr>
+<td>
+<h4>Git · GitHub</h4>
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/61308457/168620845-e715827f-77c4-4cae-953f-62d715eac6b9.svg" height="40px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620858-6e6b449c-713e-4f06-b15c-560654054a67.svg" height="40px"/>
+</td>
+</tr>
+<tr>
+<td>
+<h4>Figma</h4>
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/61308457/168620829-d4950d80-fe90-44c3-9ab8-12c646272002.svg" height="40px"/>
 </td>
 </tr>
 </tbody>
