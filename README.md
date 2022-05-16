@@ -1,47 +1,84 @@
-### Hi there 👋
-
 <!--
-![Alt text](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge "Можно задать title")
-![222](https://user-images.githubusercontent.com/61308457/168446069-ef5a4681-d8fc-4fb6-ab75-ea3bb47075f5.svg)
-![mesto-logo](https://user-images.githubusercontent.com/61308457/168446746-10106144-f576-4989-a9c8-5c50b0aad6ea.svg)
-![movies-logo](https://user-images.githubusercontent.com/61308457/168446964-32f44f66-a427-4f46-b741-a6235be93880.svg)
+![typescript (1)](https://user-images.githubusercontent.com/61308457/168620586-80517d35-876c-4bc2-99d0-a74e591cb07c.svg)
+![react-2](https://user-images.githubusercontent.com/61308457/168620601-fb19e084-bb03-4da5-b246-2ac69befa055.svg)
+![redux](https://user-images.githubusercontent.com/61308457/168620635-7400babf-ef9c-419b-a9a9-3ce5a811b0fa.svg)
+![logo-javascript](https://user-images.githubusercontent.com/61308457/168620656-1250de48-d98b-4e0a-968b-8aca8bfccabb.svg)
+![html-1](https://user-images.githubusercontent.com/61308457/168620667-2ce12d8d-29d0-4e85-b168-a77376437bb3.svg)
+![css-3](https://user-images.githubusercontent.com/61308457/168620684-c90cb9d3-5250-42dd-89f0-55f8fd31e479.svg)
+![371377](https://user-images.githubusercontent.com/61308457/168620699-09f74a19-26f2-4f2f-aed2-a2f5152111ca.svg)
+![jest-seeklogo com](https://user-images.githubusercontent.com/61308457/168620725-51973d46-36f6-4981-a006-1e78537abd51.svg)
+![370774](https://user-images.githubusercontent.com/61308457/168620741-ad9540b8-1fe1-4ec2-a28c-1e4ae6f7f6f3.svg)
+![371209](https://user-images.githubusercontent.com/61308457/168620756-1cd531c2-80ec-49dd-a252-635427f62c39.svg)
+![expressjs-ar21](https://user-images.githubusercontent.com/61308457/168620770-9adf6479-654d-4340-9eb1-40d093eee758.svg)
+![mongodb-ar21](https://user-images.githubusercontent.com/61308457/168620785-10c2a65d-ae8e-4ad0-8ae9-99e88e460b41.svg)
+![nginx-ar21](https://user-images.githubusercontent.com/61308457/168620808-39aba4b3-c87a-4782-9d32-92c9192faeb3.svg)
+![figma-ar21](https://user-images.githubusercontent.com/61308457/168620829-d4950d80-fe90-44c3-9ab8-12c646272002.svg)
+![git-scm-ar21](https://user-images.githubusercontent.com/61308457/168620845-e715827f-77c4-4cae-953f-62d715eac6b9.svg)
+![github-ar21](https://user-images.githubusercontent.com/61308457/168620858-6e6b449c-713e-4f06-b15c-560654054a67.svg)
 
-![chrome_9H9DgYnwal](https://user-images.githubusercontent.com/61308457/168448516-264abf11-b4e6-4b3f-bbf1-0095c8f4aae2.gif)
-![chrome_6BZNm2i5PM](https://user-images.githubusercontent.com/61308457/168448705-1d49221c-23e8-4bea-b1dd-698e1f825b82.gif)
 
-![chrome_hzWkeB6m6A](https://user-images.githubusercontent.com/61308457/168448786-28b07fa6-3e18-407c-a3d5-27571a0001e8.gif)
+--!>
 
+<h1 align="center">Cтэк</h1>
+<table align="center">
+<tbody align="center">
+<tr>
+<td>
+<h3>TypeScript · React · Redux · JavaScript · HTML5 · CSS3</h3>
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/61308457/168620586-80517d35-876c-4bc2-99d0-a74e591cb07c.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620601-fb19e084-bb03-4da5-b246-2ac69befa055.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620635-7400babf-ef9c-419b-a9a9-3ce5a811b0fa.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620656-1250de48-d98b-4e0a-968b-8aca8bfccabb.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620667-2ce12d8d-29d0-4e85-b168-a77376437bb3.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620684-c90cb9d3-5250-42dd-89f0-55f8fd31e479.svg" height="50px"/>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Node.js · Express.js · MongoDB · nginx</h3>
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/61308457/168620756-1cd531c2-80ec-49dd-a252-635427f62c39.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620770-9adf6479-654d-4340-9eb1-40d093eee758.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620785-10c2a65d-ae8e-4ad0-8ae9-99e88e460b41.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620808-39aba4b3-c87a-4782-9d32-92c9192faeb3.svg" height="50px"/>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Jest · Cypress</h3>
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/61308457/168620725-51973d46-36f6-4981-a006-1e78537abd51.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620741-ad9540b8-1fe1-4ec2-a28c-1e4ae6f7f6f3.svg" height="50px"/>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Git · GitHub</h3>
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/61308457/168620845-e715827f-77c4-4cae-953f-62d715eac6b9.svg" height="50px"/>
+<img src="https://user-images.githubusercontent.com/61308457/168620858-6e6b449c-713e-4f06-b15c-560654054a67.svg" height="50px"/>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Figma</h3>
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/61308457/168620829-d4950d80-fe90-44c3-9ab8-12c646272002.svg" height="50px"/>
+</td>
+</tr>
+</tbody>
+</table>
 
-![Картинка][image1]
-![Картинка][image3]
-![Картинка][image2]
+<br>
 
-[image1]: https://img.shields.io/badge/-React-202124?logo=react&logoColor=61DAFB&style=flat-square
-[image2]: https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white
-[image3]: https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white
-**iv-a/iv-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![chrome_9qig6byvAn](https://user-images.githubusercontent.com/61308457/168380169-9b1b50ac-8e5c-48ea-ab01-a49b10a4668b.gif)
-Here are some ideas to get you started:
-![Alt text](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge "Можно задать title")
-<img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-React-202124?logo=react&logoColor=61DAFB&style=for-the-badge" />
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h1 align="center">Проекты</h1>
 <table>
-  <thead>
-    <tr>
-      <h1>ПОСЛЕДНИЕ ПРОЕКТЫ</h1>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td colspan="2"><h3 align="center">Stellar Burges</h3></td>
@@ -158,6 +195,5 @@ Here are some ideas to get you started:
         </div>
       </td>
     </tr>
-    
   </tbody>
 </table>
