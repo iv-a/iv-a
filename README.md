@@ -20,9 +20,11 @@
 --!>
 
 
-
 <h1 align="center">Артем Иванов</h1>
-<table align="right">
+
+<img align="right" src="https://user-images.githubusercontent.com/61308457/168682166-b3dd3ff6-237c-48e0-b74e-7017a9d593a7.svg" width="40%"/>
+
+<table>
 <thead>
 <th colspan="2">
 <h3 align="center">Cтэк</h3>
@@ -81,8 +83,6 @@
 </tr>
 </tbody>
 </table>
-
-<img src="https://user-images.githubusercontent.com/61308457/168682166-b3dd3ff6-237c-48e0-b74e-7017a9d593a7.svg" width="50%"/>
 
 <br>
 
