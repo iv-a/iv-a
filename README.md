@@ -20,19 +20,20 @@
 --!>
 
 
-<h1 align="center">Артем Иванов</h1>
-
-<img align="right" src="https://user-images.githubusercontent.com/61308457/168682166-b3dd3ff6-237c-48e0-b74e-7017a9d593a7.svg" width="40%"/>
+<h1 align="center">Привет, я Артем!</h1>
 
 <table>
-<thead>
-<th colspan="2">
-<h3 align="center">Cтэк</h3>
-</th>
-</thead>
 <tbody align="center">
 <tr>
-<td width="150px">
+<td rowspan="6" width="50%">
+<img src="https://user-images.githubusercontent.com/61308457/168682166-b3dd3ff6-237c-48e0-b74e-7017a9d593a7.svg" />
+</td>
+<td colspan="2">
+<h3>Мой стэк</h3>
+</td>
+</tr>
+<tr>
+<td width="20%">
 <h6>TypeScript · React · Redux · JavaScript · HTML5 · CSS3</h6>
 </td>
 <td>
@@ -86,7 +87,7 @@
 
 <br>
 
-<h2 align="center">Проекты</h2>
+<h2 align="center">Мои проекты</h2>
 <table>
   <tbody>
     <tr>
