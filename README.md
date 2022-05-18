@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td width="20%">
-<h6>TypeScript · React · Redux · JavaScript · HTML5 · CSS3</h6>
+<h6>TypeScript • React • Redux • JavaScript • HTML5 • CSS3</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/61308457/168620586-80517d35-876c-4bc2-99d0-a74e591cb07c.svg" height="40px"/>
@@ -47,7 +47,7 @@
 </tr>
 <tr>
 <td>
-<h6>Node.js · Express.js · MongoDB · nginx</h6>
+<h6>Node.js • Express.js • MongoDB • nginx</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/61308457/168620756-1cd531c2-80ec-49dd-a252-635427f62c39.svg" height="40px"/>
@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td>
-<h6>Jest · Cypress</h6>
+<h6>Jest • Cypress</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/61308457/168620725-51973d46-36f6-4981-a006-1e78537abd51.svg" height="40px"/>
@@ -67,7 +67,7 @@
 </tr>
 <tr>
 <td>
-<h6>Git · GitHub</h6>
+<h6>Git • GitHub</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/61308457/168620845-e715827f-77c4-4cae-953f-62d715eac6b9.svg" height="40px"/>
@@ -95,12 +95,12 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <a href="https://github.com/iv-a/react-burger">
+        <a href="https://github.com/iv-a/react-burger" title="Открыть Демо">
           <img src="https://user-images.githubusercontent.com/61308457/168448786-28b07fa6-3e18-407c-a3d5-27571a0001e8.gif" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/iv-a/react-burger">
+        <a href="https://github.com/iv-a/react-burger" title="Перейти в репозиторий проекта">
           <img src="https://user-images.githubusercontent.com/61308457/168446069-ef5a4681-d8fc-4fb6-ab75-ea3bb47075f5.svg" />
         </a>
       </td>
@@ -127,19 +127,23 @@
           Приложение космической бургерной, позволяющее заказывать бургеры, приготовленные по Вашему индивидуальному заказу. В приложении можно собрирать бургеры простым перетаскиванием необходимых ингредиентов, оформлять заказ, а также отслеживать его статус в реальном времени.
         </p>
         <div align="right">
-          <a href="https://github.com/iv-a/react-burger">Узнать больше →</a>
+          <a href="https://github.com/iv-a/react-burger" title="Перейти в репозиторий проекта">Узнать больше →</a>
         </div>
       </td>
     </tr>
     <tr>
-      <td colspan="2"><h3 align="center">Movies Explorer</h3></td>
+      <td colspan="2"><h3 align="center">Movies Explorer<ruby>&nbsp;<rt><a href="https://github.com/iv-a/movies-explorer-frontend" title="Открыть репозиторий с фронтендом">Frontend</a> + <a href="https://github.com/iv-a/movies-explorer-api" title="Открыть репозиторий с бэкендом">Backend</a></rt></ruby></h3></td>
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <img src="https://user-images.githubusercontent.com/61308457/168448245-8d99008c-1cc2-4ad5-b1a7-a336c71f8c26.gif" />
+        <a href="https://user-images.githubusercontent.com/61308457/168448245-8d99008c-1cc2-4ad5-b1a7-a336c71f8c26.gif" title="Открыть Демо">
+          <img src="https://user-images.githubusercontent.com/61308457/168448245-8d99008c-1cc2-4ad5-b1a7-a336c71f8c26.gif" />
+        </a>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/61308457/168446964-32f44f66-a427-4f46-b741-a6235be93880.svg" />
+        <a href="https://github.com/iv-a/movies-explorer-frontend" title="Перейти в репозиторий проекта">
+          <img src="https://user-images.githubusercontent.com/61308457/168446964-32f44f66-a427-4f46-b741-a6235be93880.svg" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -164,19 +168,25 @@
           Сервис по поиску фильмов с возможностью сохранять понравившиеся в личном кабинете.
         </p>
         <div align="right">
-          <a href="https://github.com/iv-a/react-burger">Узнать больше →</a>
+          <a href="https://github.com/iv-a/movies-explorer-frontend"  title="Перейти в репозиторий проекта">Узнать больше →</a>
         </div>
       </td>
     </tr>
     <tr>
-      <td colspan="2"><h3 align="center">Mesto</h3></td>
+      <td colspan="2">
+        <h3 align="center">Mesto</h3>
+      </td>
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <img src="https://user-images.githubusercontent.com/61308457/168448705-1d49221c-23e8-4bea-b1dd-698e1f825b82.gif" />
+        <a href="#"  title="Открыть Демо">
+          <img src="https://user-images.githubusercontent.com/61308457/168448705-1d49221c-23e8-4bea-b1dd-698e1f825b82.gif" />
+        </a>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/61308457/168446746-10106144-f576-4989-a9c8-5c50b0aad6ea.svg" />
+        <a href="https://github.com/iv-a/react-mesto-api-full" title="Перейти в репозиторий проекта">
+          <img src="https://user-images.githubusercontent.com/61308457/168446746-10106144-f576-4989-a9c8-5c50b0aad6ea.svg" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -201,7 +211,7 @@
           Сервис, позволяющий пользователям делиться своими изображениями и оценивать чужие.
         </p>
         <div align="right">
-          <a href="https://github.com/iv-a/react-burger">Узнать больше →</a>
+          <a href="https://github.com/iv-a/react-mesto-api-full" title="Перейти в репозиторий проекта">Узнать больше →</a>
         </div>
       </td>
     </tr>
