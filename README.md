@@ -294,9 +294,9 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=iv-a&hide=contribs&show_icons=true">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=iv-a&hide=contribs&show_icons=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=iv-a&hide=contribs&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iv-a&layout=compact">
-  <img align="right" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iv-a&layout=compact" />
+  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iv-a&layout=compact" />
 </a>
 </div>
