@@ -292,6 +292,7 @@
   </tbody>
 </table>
 
+<h2 align="center">Моя статистика</h2>
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=iv-a&hide=contribs&show_icons=true">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=iv-a&hide=contribs&show_icons=true" />
