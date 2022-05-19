@@ -123,7 +123,7 @@
     <tr>
       <td>
         <p align="center"><b>О проекте</b></p>
-        <p>
+        <p align="center">
           Приложение космической бургерной, позволяющее заказывать бургеры, приготовленные по Вашему индивидуальному заказу. В приложении можно собрирать бургеры простым перетаскиванием необходимых ингредиентов, оформлять заказ, а также отслеживать его статус в реальном времени.
         </p>
         <div align="right">
@@ -164,7 +164,7 @@
     <tr>
       <td>
         <p align="center"><b>О проекте</b></p>
-        <p>
+        <p align="center">
           Сервис по поиску фильмов с возможностью сохранять понравившиеся в личном кабинете.
         </p>
         <div align="right">
@@ -207,11 +207,85 @@
     <tr>
       <td>
         <p align="center"><b>О проекте</b></p>
-        <p>
+        <p align="center">
           Сервис, позволяющий пользователям делиться своими изображениями и оценивать чужие.
         </p>
         <div align="right">
           <a href="https://github.com/iv-a/react-mesto-api-full" title="Перейти в репозиторий проекта">Узнать больше →</a>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="2">
+        <h3 align="center">Путешествия по России</h3>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="60%">
+        <a href="#"  title="Открыть Демо">
+          <img src="https://user-images.githubusercontent.com/61308457/169165597-7a4a13d4-15b9-46d4-b880-158806ab5da3.png" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/iv-a/russian-travel" title="Перейти в репозиторий проекта">
+          <img src="https://user-images.githubusercontent.com/61308457/169338698-f52f5066-c84a-4b54-a72f-477c86f87a08.svg" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"><b>О проекте</b></p>
+        <p align="center">
+          Одностраничный сайт с подборкой и описанием уникальных объектов природного и культурного наследия, расположенных на территории России и рекомендованных к посещению.
+        </p>
+        <div align="right">
+          <a href="https://github.com/iv-a/russian-travel" title="Перейти в репозиторий проекта">Узнать больше →</a>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="2">
+        <h3 align="center">Научиться учиться</h3>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="60%">
+        <a href="#"  title="Открыть Демо">
+          <img src="https://user-images.githubusercontent.com/61308457/169156206-e987778d-c8c2-42db-b28e-a790f011c5d2.gif" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/iv-a/how-to-learn" title="Перейти в репозиторий проекта">
+          <img src="https://user-images.githubusercontent.com/61308457/169342464-3ac41a70-0fe1-4f1b-9294-36df509a775e.svg" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"><b>О проекте</b></p>
+        <p align="center">
+          Одностраничный сайт, на котором содержится информация о методиках, полезных для повышения эффективности и осознанности обучения.
+        </p>
+        <div align="right">
+          <a href="https://github.com/iv-a/how-to-learn" title="Перейти в репозиторий проекта">Узнать больше →</a>
         </div>
       </td>
     </tr>
