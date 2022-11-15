@@ -357,6 +357,11 @@
 </picture>
 
 <!--
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=iv-a&hide=contribs,issues&show_icons=true&locale=ru&hide_border=true&bg_color=ffffff00&title_color=79ff97&text_color=9f9f9f&icon_color=79ff97"
+  media="(prefers-color-scheme: dark)"
+/>
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=iv-a&hide=contribs&show_icons=true">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=iv-a&hide=contribs,issues&show_icons=true&locale=ru&hide_border=true&bg_color=ffffff00" />
