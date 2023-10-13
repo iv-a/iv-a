@@ -1,88 +1,221 @@
-<!--
-![typescript (1)](https://user-images.githubusercontent.com/61308457/168620586-80517d35-876c-4bc2-99d0-a74e591cb07c.svg)
-![react-2](https://user-images.githubusercontent.com/61308457/168620601-fb19e084-bb03-4da5-b246-2ac69befa055.svg)
-![redux](https://user-images.githubusercontent.com/61308457/168620635-7400babf-ef9c-419b-a9a9-3ce5a811b0fa.svg)
-![logo-javascript](https://user-images.githubusercontent.com/61308457/168620656-1250de48-d98b-4e0a-968b-8aca8bfccabb.svg)
-![html-1](https://user-images.githubusercontent.com/61308457/168620667-2ce12d8d-29d0-4e85-b168-a77376437bb3.svg)
-![css-3](https://user-images.githubusercontent.com/61308457/168620684-c90cb9d3-5250-42dd-89f0-55f8fd31e479.svg)
-![371377](https://user-images.githubusercontent.com/61308457/168620699-09f74a19-26f2-4f2f-aed2-a2f5152111ca.svg)
-![jest-seeklogo com](https://user-images.githubusercontent.com/61308457/168620725-51973d46-36f6-4981-a006-1e78537abd51.svg)
-![370774](https://user-images.githubusercontent.com/61308457/168620741-ad9540b8-1fe1-4ec2-a28c-1e4ae6f7f6f3.svg)
-![371209](https://user-images.githubusercontent.com/61308457/168620756-1cd531c2-80ec-49dd-a252-635427f62c39.svg)
-![expressjs-ar21](https://user-images.githubusercontent.com/61308457/168620770-9adf6479-654d-4340-9eb1-40d093eee758.svg)
-![mongodb-ar21](https://user-images.githubusercontent.com/61308457/168620785-10c2a65d-ae8e-4ad0-8ae9-99e88e460b41.svg)
-![nginx-ar21](https://user-images.githubusercontent.com/61308457/168620808-39aba4b3-c87a-4782-9d32-92c9192faeb3.svg)
-![figma-ar21](https://user-images.githubusercontent.com/61308457/168620829-d4950d80-fe90-44c3-9ab8-12c646272002.svg)
-![git-scm-ar21](https://user-images.githubusercontent.com/61308457/168620845-e715827f-77c4-4cae-953f-62d715eac6b9.svg)
-![github-ar21](https://user-images.githubusercontent.com/61308457/168620858-6e6b449c-713e-4f06-b15c-560654054a67.svg)
-
-![Uploading Frame 13.svg…]()
-
---!>
 
 
-<h1 align="center">Привет, я Артем!</h1>
+
 
 <table>
-<tbody align="center">
-<tr>
-<td rowspan="6" width="50%">
-<img src="https://user-images.githubusercontent.com/61308457/168682166-b3dd3ff6-237c-48e0-b74e-7017a9d593a7.svg" />
-</td>
-<td colspan="2">
-<h3>Мой стэк</h3>
-</td>
-</tr>
-<tr>
-<td width="20%">
-<h6>TypeScript • React • Redux • Redux Toolkit • RTK Query • JavaScript • HTML5 • CSS3 • CSS Modules • Webpack</h6>
-</td>
-<td>
-<img src="https://user-images.githubusercontent.com/61308457/168620586-80517d35-876c-4bc2-99d0-a74e591cb07c.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620601-fb19e084-bb03-4da5-b246-2ac69befa055.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620635-7400babf-ef9c-419b-a9a9-3ce5a811b0fa.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620656-1250de48-d98b-4e0a-968b-8aca8bfccabb.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620667-2ce12d8d-29d0-4e85-b168-a77376437bb3.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620684-c90cb9d3-5250-42dd-89f0-55f8fd31e479.svg" height="40px"/>
-</td>
-</tr>
-<tr>
-<td>
-<h6>Node.js • Express.js • MongoDB • nginx</h6>
-</td>
-<td>
-<img src="https://user-images.githubusercontent.com/61308457/168620756-1cd531c2-80ec-49dd-a252-635427f62c39.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620770-9adf6479-654d-4340-9eb1-40d093eee758.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620785-10c2a65d-ae8e-4ad0-8ae9-99e88e460b41.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620808-39aba4b3-c87a-4782-9d32-92c9192faeb3.svg" height="40px"/>
-</td>
-</tr>
-<tr>
-<td>
-<h6>Jest • Cypress</h6>
-</td>
-<td>
-<img src="https://user-images.githubusercontent.com/61308457/168620725-51973d46-36f6-4981-a006-1e78537abd51.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620741-ad9540b8-1fe1-4ec2-a28c-1e4ae6f7f6f3.svg" height="40px"/>
-</td>
-</tr>
-<tr>
-<td>
-<h6>Git • GitHub</h6>
-</td>
-<td>
-<img src="https://user-images.githubusercontent.com/61308457/168620845-e715827f-77c4-4cae-953f-62d715eac6b9.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/61308457/168620858-6e6b449c-713e-4f06-b15c-560654054a67.svg" height="40px"/>
-</td>
-</tr>
-<tr>
-<td>
-<h6>Figma</h6>
-</td>
-<td>
-<img src="https://user-images.githubusercontent.com/61308457/168620829-d4950d80-fe90-44c3-9ab8-12c646272002.svg" height="40px"/>
-</td>
-</tr>
+<thead>
+    <tr>
+        <th width="50%" rowspan="2">
+            <h2 align="center">Обо мне:</h2>
+        </th>
+        <th colspan="3">
+            <h2 align="center">Мой стэк:</h2>
+        </th>
+    </tr>
+    <tr>
+        <th>Категория</th>
+        <th>Значок</th>
+        <th>Технология</th>
+    </tr>
+</thead>
+<tbody>
+<!-- Языки программирования и разметки --!>
+    <tr>
+        <td rowspan="44">
+            <h5>Я — TypeScript-разработчик с опытом как во фронтенде, так и в бэкенде.</h5>
+            <p>Моя страсть — создавать современные, функциональные веб-приложения, постоянно осваивая новые технологии.</p>
+            <p>Совершенствуюсь, углубляя знания в алгоритмах, структурах данных, типизации, логике и оптимизации кода. Активно решаю технические задачи с LeetCode <a href="https://github.com/iv-a/algorithms">[Мои решения]</a> и Type Challenges <a href="https://github.com/iv-a/ts-challenges">[Мои решения]</a>.</p>
+            <p>Мечтаю внести свой вклад в реализацию сложных проектов, где мог бы на полную раскрыть свои творческие и технические способности, делая продукт полезным и удобным для конечного пользователя.</p>
+        </td>
+        <td rowspan="2">Языки программирования и разметки:</td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /></td>
+        <td>TypeScript</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></td>
+        <td>JavaScript</td>
+    </tr>
+
+<!-- Фронтенд-библиотеки и фреймворки: --!>
+    <tr>
+        <td rowspan="2">Фронтенд-библиотеки и фреймворки:</td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/react" /></td>
+        <td>React</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" /></td>
+        <td>Next.js</td>
+    </tr>
+
+<!-- Стилизация и CSS: --!>
+    <tr>
+        <td rowspan="10">Стилизация и CSS:</td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/bem" /></td>
+        <td>БЭМ</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/css3" /></td>
+        <td>CSS3</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/cssmodules" /></td>
+        <td>CSS modules</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/postcss" /></td>
+        <td>PostCSS</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/sass" /></td>
+        <td>SASS/SCSS</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /></td>
+        <td>Tailwind CSS</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/adobe" /></td>
+        <td>React Spectrum</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/mui" /></td>
+        <td>Material UI</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/radixui" /></td>
+        <td>Radix UI</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/antdesign" /></td>
+        <td>Ant Design</td>
+    </tr>
+    
+<!-- Состояние и управление данными: --!>
+    <tr>
+        <td rowspan="6">Состояние и управление данными:</td>
+        <td rowspan="3"><img height="32" width="32" src="https://cdn.simpleicons.org/redux" /></td>
+        <td>Redux</td>
+    </tr>
+    <tr>
+        <td>Redux Toolkit</td>
+    </tr>
+
+    <tr>
+        <td>RTK Query</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Ajax</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Websocket</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>REST Api</td>
+    </tr>
+
+<!-- Бэкенд и серверные технологии: --!>
+    <tr>
+        <td rowspan="7">Бэкенд и серверные технологии:</td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" /></td>
+        <td>Node.js</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/express" /></td>
+        <td>Express.js</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /></td>
+        <td>MongoDB</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /></td>
+        <td>Mongoose</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/nginx" /></td>
+        <td>NGINX</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>WebSocket</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>REST Api</td>
+    </tr>
+
+
+<!-- Окружение разработки и инфраструктура: --!>
+    <tr>
+        <td rowspan="7">Окружение разработки и инфраструктура:</td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/webpack" /></td>
+        <td>Webpack</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/babel" /></td>
+        <td>Babel</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/eslint" /></td>
+        <td>ESLint</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/prettier" /></td>
+        <td>Prettier</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/git" /></td>
+        <td>Git</td>
+    </tr>
+    <tr>
+        <td rowspan="2"><img height="32" width="32" src="https://cdn.simpleicons.org/docker" /></td>
+        <td>Docker</td>
+    </tr>
+    <tr>
+        <td>Babel</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">Тестирование:</td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/jest" /></td>
+        <td>Jest</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/cypress" /></td>
+        <td>Cypress</td>
+    </tr>
+
+
+<!-- Инструменты и утилиты: --!>
+    <tr>
+        <td rowspan="6">Инструменты и утилиты:</td>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/npm" /></td>
+        <td>npm</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/webstorm" /></td>
+        <td>WebStorm</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /></td>
+        <td>Visual Studio Code</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome" /></td>
+        <td>Chrome DevTools</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/postman" /></td>
+        <td>Postman</td>
+    </tr>
+    <tr>
+        <td><img height="32" width="32" src="https://cdn.simpleicons.org/figma" /></td>
+        <td>Figma</td>
+    </tr>
+    
 </tbody>
 </table>
 
