@@ -231,7 +231,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <a href="#"  title="Открыть Демо">
+        <a href="https://github.com/iv-a/hacker-news"  title="Открыть Демо">
           <img src="https://user-images.githubusercontent.com/61308457/199858841-e75434e2-90de-4344-b2e9-dfd747b1b2ce.gif" />
         </a>
       </td>
@@ -315,7 +315,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <a href="#" title="Открыть Демо">
+        <a href="https://github.com/iv-a/movies-explorer-frontend" title="Открыть Демо">
           <img src="https://user-images.githubusercontent.com/61308457/168448245-8d99008c-1cc2-4ad5-b1a7-a336c71f8c26.gif" />
         </a>
       </td>
@@ -358,7 +358,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <a href="#"  title="Открыть Демо">
+        <a href="https://github.com/iv-a/react-mesto-api-full"  title="Открыть Демо">
           <img src="https://user-images.githubusercontent.com/61308457/168448705-1d49221c-23e8-4bea-b1dd-698e1f825b82.gif" />
         </a>
       </td>
@@ -402,7 +402,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <a href="#"  title="Открыть Демо">
+        <a href="https://github.com/iv-a/russian-travel"  title="Открыть Демо">
           <img src="https://user-images.githubusercontent.com/61308457/169165597-7a4a13d4-15b9-46d4-b880-158806ab5da3.png" />
         </a>
       </td>
@@ -441,7 +441,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <a href="#"  title="Открыть Демо">
+        <a href="https://github.com/iv-a/how-to-learn"  title="Открыть Демо">
           <img src="https://user-images.githubusercontent.com/61308457/169156206-e987778d-c8c2-42db-b28e-a790f011c5d2.gif" />
         </a>
       </td>
