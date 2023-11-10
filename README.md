@@ -175,7 +175,7 @@
         <td>Docker</td>
     </tr>
     <tr>
-        <td>Babel</td>
+        <td>Docker Compose</td>
     </tr>
 
     <tr>
