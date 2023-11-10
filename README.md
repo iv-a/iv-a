@@ -226,7 +226,7 @@
   <tbody>
     <tr>
       <td colspan="2">
-        <h3 align="center">Hacker News</h3>
+        <h3 align="center"><a href="https://github.com/iv-a/hacker-news">Hacker News</a></h3>
       </td>
     </tr>
     <tr>
@@ -264,13 +264,13 @@
           Интерфейс для сайта <a href="https://news.ycombinator.com/news">Hacker News</a>
         </p>
         <div align="right">
-          <a href="https://github.com/iv-a/react-mesto-api-full" title="Перейти в репозиторий проекта">Узнать больше →</a>
+          <a href="https://github.com/iv-a/hacker-news" title="Перейти в репозиторий проекта">Узнать больше →</a>
         </div>
       </td>
     </tr>
   
     <tr>
-      <td colspan="2"><h3 align="center">Stellar Burges</h3></td>
+      <td colspan="2"><h3 align="center"><a href="https://github.com/iv-a/react-burger">Stellar Burges</a></h3></td>
     </tr>
     <tr>
       <td rowspan="3" width="60%">
@@ -315,7 +315,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <a href="https://user-images.githubusercontent.com/61308457/168448245-8d99008c-1cc2-4ad5-b1a7-a336c71f8c26.gif" title="Открыть Демо">
+        <a href="#" title="Открыть Демо">
           <img src="https://user-images.githubusercontent.com/61308457/168448245-8d99008c-1cc2-4ad5-b1a7-a336c71f8c26.gif" />
         </a>
       </td>
@@ -353,7 +353,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <h3 align="center">Mesto</h3>
+        <h3 align="center"><a href="https://github.com/iv-a/react-mesto-api-full">Mesto</a></h3>
       </td>
     </tr>
     <tr>
@@ -397,7 +397,7 @@
 
     <tr>
       <td colspan="2">
-        <h3 align="center">Путешествия по России</h3>
+        <h3 align="center"><a href="https://github.com/iv-a/russian-travel">Путешествия по России</a></h3>
       </td>
     </tr>
     <tr>
@@ -434,7 +434,9 @@
 
     <tr>
       <td colspan="2">
-        <h3 align="center">Научиться учиться</h3>
+      <h3 align="center">
+        <a href="https://github.com/iv-a/how-to-learn">Научиться учиться</a>
+      </h3>
       </td>
     </tr>
     <tr>
